@@ -1,3 +1,7 @@
+## 1.3.2 (Jul 8, 20017)
+
+* Added ability to triggering build
+
 ## 1.3.1 (Jun 4, 20014)
 
 * Dependencies
